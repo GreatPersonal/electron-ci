@@ -1,0 +1,58 @@
+{
+    "org": {
+        "attribute": "",
+        "bak": "",
+        "code": "深圳",
+        "codePath": "/NEW/线上运营中心/销售中心/野狼区/深圳/",
+        "cuTime": 1493740800000,
+        "depth": 5,
+        "flag": 1,
+        "id": 706,
+        "idPath": "/287/401/402/1010/706/",
+        "name": "深圳组",
+        "namePath": "/NEW/客户服务中心/销售部/野狼区/深圳组/",
+        "orderNum": 1,
+        "ou": 2053,
+        "pid": 1010
+    },
+    "success": true,
+    "user": {
+        "abnormalStatus": 0,
+        "clientInfo": {
+            "client": 100,
+            "ip": "172.17.0.142",
+            "sessionId": "5168eef5-d1bb-4d27-a189-54a6b28af032"
+        },
+        "email": "jiangyexian@mychebao.com",
+        "flag": 1,
+        "id": 4598,
+        "idCardNo": "341181199512291619",
+        "lastLoginIp": "172.16.11.110",
+        "lastLoginTime": 1516956674000,
+        "latestLoginIp": "172.17.0.142",
+        "latestLoginTime": 1516960941694,
+        "mobile": "13236595802",
+        "name": "蒋业先",
+        "namePY": "jiangyexian",
+        "orgID": 706,
+        "orgIDPath": "/287/401/402/1010/706/",
+        "orgName": "NEW/客户服务中心/销售部/野狼区/深圳组/",
+        "sex": 2,
+        "sso": "d487a4872d8346cea1620a2168181bb1",
+        "status": "99",
+        "userName": "jiangyexian"
+    },
+    "userContact": {
+        "contact": "8006",
+        "contactNature": 12,
+        "contactType": 0,
+        "cutime": 1512553375000,
+        "flag": 1,
+        "id": 3360,
+        "isMain": 1,
+        "opId": 5241,
+        "opName": "许丹",
+        "prefix": 1234,
+        "userId": 4598
+    }
+}
